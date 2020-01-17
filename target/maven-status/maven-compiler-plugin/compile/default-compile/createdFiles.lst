@@ -1,0 +1,5 @@
+com\booking\commons\AdminDTO.class
+com\booking\commons\ReservationDTO.class
+com\booking\commons\OfferDTO.class
+com\booking\commons\AgentDTO.class
+com\booking\commons\CustomerDTO.class
